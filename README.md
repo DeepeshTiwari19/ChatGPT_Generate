@@ -1,5 +1,5 @@
 
-#ChatGPT Intergration
+# ChatGPT Intergration
 
 
 Here I integrate ChatGpt with webpage through chatGPT api
